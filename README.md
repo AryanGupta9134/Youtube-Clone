@@ -1,7 +1,7 @@
 # YouTube Clone
 
 A React-based YouTube Clone that replicates core features of YouTube, including video browsing, searching, and playback.
-
+   
 ## Features
 
 - **Home Page:** Displays trending and recommended videos.
